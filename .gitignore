@@ -1,0 +1,11 @@
+# Temporary source chats and review notes are private working material
+sources/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+
+# OS and editor artifacts
+.DS_Store
+Thumbs.db
